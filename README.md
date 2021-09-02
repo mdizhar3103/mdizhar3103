@@ -38,6 +38,8 @@
 <code><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="42" height="42"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="42" height="42"/> </code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42"/></code>
+<code><img src="https://avatars.githubusercontent.com/u/1507452?s=200&v=4" alt="html5" width="42" height="42"/></code>
+
 
 ---
 📈 My Github Stats
