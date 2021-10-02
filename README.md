@@ -10,7 +10,7 @@
 - 💬 Ask me about anything tech related, I am happy to help
 - 📫 Feel free to ping me on [Linkedin](https://www.linkedin.com/in/mohd-izhar-72a048147/)
 - 📚 In my free time I play games and sports.
-- 💼 Open to freelance work, do reach me, [email](mailto:mdizhar3103@gmail.com)
+- 💼 Open to work, do reach me, [email](mailto:mdizhar3103@gmail.com)
 
 ---
 
@@ -45,6 +45,9 @@
 📈 My Github Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mdizhar3103&show_icons=true&theme=gotham" alt="mdizhar3103" />
+
+ ---
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdizhar3103&layout=compact&theme=dark"/>  
 
 
 <!---
