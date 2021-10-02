@@ -44,10 +44,8 @@
 ---
 📈 My Github Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mdizhar3103&show_icons=true&theme=gotham" alt="mdizhar3103" />
-
- ---
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdizhar3103&layout=compact&theme=dark"/>  
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=mdizhar3103&show_icons=true&theme=gotham" alt="mdizhar3103" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdizhar3103&hide=jupyter%20notebook&layout=compact&theme=dark"/>  
 
 
 <!---
