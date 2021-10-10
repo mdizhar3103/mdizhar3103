@@ -45,10 +45,11 @@
 📈 My Github Stats
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=mdizhar3103&show_icons=true&theme=gotham" alt="mdizhar3103" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdizhar3103&hide=jupyter%20notebook&layout=compact&theme=dark"/>  
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdizhar3103&hide=jupyter%20notebook,&langs_count=25&layout=compact&theme=dark"/>  
 
 <!---
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdizhar3103&hide=css,jupyter%20notebook&langs_count=8&theme=dark"/>  
+
 mdizhar3103/mdizhar3103 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
