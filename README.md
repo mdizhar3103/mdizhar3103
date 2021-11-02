@@ -12,6 +12,12 @@
 - 📚 In my free time I play games and sports.
 - 💼 Open to work, do reach me, [email](mailto:mdizhar3103@gmail.com)
 
+📈 My Github Stats
+
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=mdizhar3103&show_icons=true&theme=gotham" alt="mdizhar3103" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdizhar3103&hide=jupyter%20notebook,&langs_count=25&layout=compact&theme=dark"/>  
+
 ---
 
 **📄Global Certifications**
@@ -42,10 +48,6 @@
 
 
 ---
-📈 My Github Stats
-
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=mdizhar3103&show_icons=true&theme=gotham" alt="mdizhar3103" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdizhar3103&hide=jupyter%20notebook,&langs_count=25&layout=compact&theme=dark"/>  
 
 <!---
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdizhar3103&hide=css,jupyter%20notebook&langs_count=8&theme=dark"/>  
