@@ -14,9 +14,9 @@
 
 📈 My Github Stats
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=mdizhar3103&show_icons=true&theme=gotham" alt="mdizhar3103" />
+<p align="left"> <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mdizhar3103&show_icons=true&theme=gotham" alt="mdizhar3103" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdizhar3103&hide=jupyter%20notebook,&langs_count=25&layout=compact&theme=dark"/>  
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mdizhar3103&hide=jupyter%20notebook,&langs_count=25&layout=compact&theme=dark"/>  
 
 ---
 
