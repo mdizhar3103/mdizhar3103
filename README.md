@@ -1,10 +1,4 @@
-👋 Hi, I’m Mohd Izhar (He/Him)!  <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdizhar3103" alt="mdizhar3103" />
- <a href="https://twitter.com/mohammadizhar15">
-  <img align="left" alt="mdizhar3103 | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/mohd-izhar-72a048147/">
-  <img align="left" alt="mdizhar3103 LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a></p>
+👋 Hi, I’m Mohd Izhar (He/Him)!  
 - 👀 I’m interested in DevOps and Programming
 - 🌱 I’m currently learning cloud Technologies, testing and Machine Learning
 - 💬 Ask me about anything tech related, I am happy to help
